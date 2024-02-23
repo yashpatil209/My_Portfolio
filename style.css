@@ -538,6 +538,15 @@ progress::-webkit-progress-value {
 
 /* footer */
 
+footer{
+    position: relatives;
+    bottom:0;
+    right: 0;
+    left:0;
+    min-width: 100%;
+    /* width: 100%; */
+}
+
 .footer_container{
     display: flex;
     /* width: 100%; */
